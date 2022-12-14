@@ -4,7 +4,8 @@
  "name": "Walkpaper2",
  "description": "Set different wallpaper for each workspace by having the wallpaper switch on workspace change. Forked from the BlinkBP'project (https://github.com/BlinkBP/walkpaper)",
  "shell-version": [
-   "42"
+   "42",
+   "43"
   ],
   "url": "https://github.com/massimiliano-dalcero/walkpaper",
   "uuid": "walkpaper2@walkpaper.massimiliano-dalcero.github.com",
